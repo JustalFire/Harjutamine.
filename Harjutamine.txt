@@ -1,1 +1,3 @@
 GitHub on teenus, kus arendajad loovad oma repositooriumid, kuhu nad salvestavad koodi ja selle ajalugu. Seda kasutavad peamiselt arendajad ja programmeerijad
+Ma saan seda kasutada oma projektide loomiseks ja säilitamiseks. 
+Ma saan kasutada GitHubi ka oma projektide näitamiseks.
